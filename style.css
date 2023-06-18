@@ -1,0 +1,82 @@
+.header{
+background-color: #a791b7;
+    
+}
+.col-lg-6{
+    color:white;
+
+}
+#h1{
+    font-family: 'Geologica', sans-serif;
+     background-color: aqua;
+     width:fit-content
+     
+
+}
+.lead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 500px;
+}
+.paul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.profile-img{
+    border-radius: 50%;
+    height: 250px;
+    display: flex;
+}
+hr{
+    width: max-content
+}
+.tag{
+    height: max-content;
+    width: auto;
+    background-color: rgba(63, 8, 100, 0.595);
+}
+.pp{
+    font-family: sans-serif;
+   font-size: large;
+    font-weight: 200;
+    color: black;
+}
+#contact{
+    background-color:#8e72a3;
+    padding: 30px;
+    
+}
+#hello{
+    background-color:aqua;
+    color:black;
+    font-size: larger;
+    font-weight: bold;
+}
+.text-body-emphasis{
+   
+    font-family:sans-serif;
+    font-weight: 550;
+
+
+}
+
+.logo{
+    height: 40px;
+    background-color: #8e72a3;
+
+
+}
+
+
+
+
+
+
+    
+
+
+
+
